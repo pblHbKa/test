@@ -21,6 +21,11 @@
 			<ContextMenu name="Наименование_КонтекстноеМеню" id="4"/>
 			<ExtendedTooltip name="НаименованиеExtendedTooltip" id="8"/>
 		</InputField>
+		<InputField name="ЮридическоеНаименование" id="10">
+			<DataPath>Объект.ЮридическоеНаименование</DataPath>
+			<ContextMenu name="ЮридическоеНаименованиеКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="ЮридическоеНаименованиеРасширеннаяПодсказка" id="12"/>
+		</InputField>
 		<CheckBoxField name="ВалютныйУчет" id="5">
 			<DataPath>Объект.ВалютныйУчет</DataPath>
 			<EditMode>EnterOnInput</EditMode>
