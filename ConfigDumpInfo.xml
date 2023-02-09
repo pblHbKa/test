@@ -76,7 +76,7 @@
 		<Metadata name="Catalog.ИсходящиеПисьма.Command.КомандаОтправитьПисьмоКонтрагенту.CommandModule" id="054830a4-d033-4b9a-8526-0c39f8e8d133.2" configVersion="8c8fa3d8a652ff4184ce6a6c9f6df03b00000000"/>
 		<Metadata name="Catalog.ИсходящиеПисьма.Form.ФормаЭлемента" id="5353cfcb-914b-4c7b-a116-8f4b50bc5871" configVersion="507a994dcc1a664a882a4a34698473de00000000"/>
 		<Metadata name="Catalog.ИсходящиеПисьма.Form.ФормаЭлемента.Form" id="5353cfcb-914b-4c7b-a116-8f4b50bc5871.0" configVersion="cb96ad2c424f2f468d7f12338f25ec9d00000000"/>
-		<Metadata name="Catalog.Контрагенты" id="0999ef48-b136-42b4-bb78-076511dac107" configVersion="e5e060fbe30eab40bca5d36afa3acc3500000000">
+		<Metadata name="Catalog.Контрагенты" id="0999ef48-b136-42b4-bb78-076511dac107" configVersion="7f41289000c0594b87cc7b776bcf706a00000000">
 			<Metadata name="Catalog.Контрагенты.Attribute.ВидЦен" id="06664a4a-9824-4cde-ba41-c85efe2fc563"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.Регион" id="0d5000f4-d82f-4b24-a5b6-68fe67aefe1b"/>
 			<Metadata name="Catalog.Контрагенты.Attribute.ЭлектроннаяПочта" id="1b58afd0-db0b-4054-a47c-c5c512dd4d19"/>
@@ -115,11 +115,12 @@
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Form.ФормаЭлемента" id="ea502ab5-d5a0-4fe7-af8a-24fb0da9c61c" configVersion="14c1609bd5b8ab4fb0d9c7157436605200000000"/>
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Form.ФормаЭлемента.Form" id="ea502ab5-d5a0-4fe7-af8a-24fb0da9c61c.0" configVersion="2c2c6f371599104f984bf9e827ff909200000000"/>
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Help" id="2c5f6423-60fe-4b43-a81f-376c3a541621.1" configVersion="ebb83c1b97b0224ea7fbe8cb024225a400000000"/>
-		<Metadata name="Catalog.Организации" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa" configVersion="3231949103a98e41a94184658df21d3c00000000">
+		<Metadata name="Catalog.Организации" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa" configVersion="7bb97b6181a1bf46a32ec03927db3fa000000000">
+			<Metadata name="Catalog.Организации.Attribute.ЮридическоеНаименование" id="d32dbc89-f3d4-44e0-bdc3-3edd2345b925"/>
 			<Metadata name="Catalog.Организации.Attribute.ВалютныйУчет" id="e57f3802-68d0-441d-bde8-353230b7bdc2"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e" configVersion="619e506f10c97e448ff06d7ccccbc18c00000000"/>
-		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e.0" configVersion="1275e91a11f9734b9e91feb2b9c1869400000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e" configVersion="5ea17bdbf699624cbf3e5d047ae1950b00000000"/>
+		<Metadata name="Catalog.Организации.Form.ФормаЭлемента.Form" id="9ab31115-47b7-41a1-9f3b-ecf8a853747e.0" configVersion="446e5723727258469425d3a6ea706f1500000000"/>
 		<Metadata name="Catalog.Организации.Help" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa.1" configVersion="6c0d02fb8327f14387092858090f680200000000"/>
 		<Metadata name="Catalog.Пользователи" id="2131ff1e-77b0-48d2-81e6-f2703f27a16e" configVersion="57dd780f4bfa5843a1f0d155e17171b400000000">
 			<Metadata name="Catalog.Пользователи.Attribute.ИдентификаторПользователяИБ" id="8db2a971-47d5-4186-ac05-730b25ca7222"/>
